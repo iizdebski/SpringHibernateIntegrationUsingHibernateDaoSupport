@@ -1,0 +1,3 @@
+# SpringHibernateIntegrationUsingHibernateDaoSupport
+
+Hibernate Dao Support Project
