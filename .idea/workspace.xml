@@ -52,14 +52,16 @@
     <favorites_list name="SpringHibernateIntegration" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/izdebski/dao/impl/EmployeeDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+            <state relative-caret-position="504">
+              <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,10 +70,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/izdebski/client/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+            <state relative-caret-position="484">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Beans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+              <folding>
+                <element signature="e#683#706#0" expanded="true" />
+                <element signature="e#750#761#0" expanded="true" />
+                <element signature="e#810#826#0" expanded="true" />
+                <element signature="e#875#891#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,9 +123,9 @@
         <option value="$PROJECT_DIR$/src/database.properties" />
         <option value="$PROJECT_DIR$/src/com/izdebski/service/impl/EmployeeServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/izdebski/model/Employee.java" />
-        <option value="$PROJECT_DIR$/src/Beans.xml" />
-        <option value="$PROJECT_DIR$/src/com/izdebski/dao/impl/EmployeeDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/com/izdebski/client/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/izdebski/dao/impl/EmployeeDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/Beans.xml" />
       </list>
     </option>
   </component>
@@ -124,94 +141,67 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
+              <item name="HibernateDaoSupportProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HibernateDaoSupportProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
+              <item name="HibernateDaoSupportProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HibernateDaoSupportProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
+              <item name="HibernateDaoSupportProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HibernateDaoSupportProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="izdebski" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
+              <item name="HibernateDaoSupportProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HibernateDaoSupportProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="izdebski" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
+              <item name="HibernateDaoSupportProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HibernateDaoSupportProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="izdebski" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
+              <item name="HibernateDaoSupportProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HibernateDaoSupportProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="izdebski" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
               <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="izdebski" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="izdebski" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="izdebski" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringHibernateIntegration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringHibernateIntegration" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547396857864" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547406242654" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Installations/libraries/Spring4.2.6/jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15835312" />
     <property name="project.structure.side.proportion" value="0.28965518" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -263,12 +253,13 @@
       <workItem from="1547128941416" duration="16654000" />
       <workItem from="1547190698978" duration="15682000" />
       <workItem from="1547214650281" duration="145000" />
-      <workItem from="1547385563462" duration="8292000" />
+      <workItem from="1547385563462" duration="10365000" />
+      <workItem from="1547405395459" duration="1321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40773000" />
+    <option name="totallyTimeSpent" value="44167000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,29 +272,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.1945629" />
-      <window_info id="Structure" order="1" sideWeight="0.5021008" side_tool="true" weight="0.1945629" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49916527" visible="true" weight="0.19669509" />
+      <window_info id="Structure" order="1" sideWeight="0.5008347" side_tool="true" weight="0.1945629" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.5021008" side_tool="true" weight="0.1945629" />
+      <window_info id="Favorites" order="5" sideWeight="0.5008347" side_tool="true" weight="0.1945629" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5449621" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23510292" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.35102925" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" weight="0.35102925" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.391258" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.40303358" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.608742" weight="0.30552545" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -346,16 +338,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/izdebski/dao/impl/EmployeeRowMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/izdebski/dao/impl/EmployeeRowMapper.java" />
     <entry file="file://$PROJECT_DIR$/src/com/izdebski/model/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-507">
@@ -412,13 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" column="60" lean-forward="true" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/izdebski/dao/EmployeeDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -436,20 +412,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding>
+            <element signature="e#683#706#0" expanded="true" />
+            <element signature="e#750#761#0" expanded="true" />
+            <element signature="e#810#826#0" expanded="true" />
+            <element signature="e#875#891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/izdebski/dao/impl/EmployeeDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        <state relative-caret-position="504">
+          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/izdebski/client/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        <state relative-caret-position="484">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
